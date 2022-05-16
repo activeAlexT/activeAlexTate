@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @activeAlexTate
 - 👀 I’m interested in code, music, art, food.
-- 🌱 I’m working in Vue/Laravel/PHP backend workflows.
+- 🌱 I’m working in Vue/Laravel/PHP
 - 📫 How to reach me: alexander.tate@activelogic.io
 
 <!---
